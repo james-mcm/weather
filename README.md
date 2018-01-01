@@ -6,7 +6,7 @@ This is a weather forecast reponsive project that gets weather data from the [Op
 
 To work on the build I have used Brackets.io, you can download it [here](http://brackets.io/).
 
-To run the project locally you can simply drag and drop the HTML folder in Brackets, select landing-api.html and click on the live preview mode - the lightning icon at the top right.
+To run the project locally you can simply drag and drop the unzipped folder in Brackets, select landing-api.html and click on the live preview mode - the lightning icon at the top right.
 
 There are two html files : landing.html and landing-api.html. The first does not use any api data, it is mainly to showcase a variety of icons / svg animation.
 
