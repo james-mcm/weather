@@ -20,7 +20,7 @@ Being not a javascript expert, my main focus here was to create a desirable UI a
 
 ## What I would do with more time
 
-* The background image has a subtle animation that mimics a windy environment, due to the image dimensions the background animation is best viewed on mobile or smaller screens, with more time I'd make it more obvious on larger screens.
+* The background image has a subtle animation that mimics a wind effect, adding a "weathery" feel to the page. The background animation is best viewed on mobile or smaller screens, with more time I'd make it more obvious on larger screens.
 
 * Create a variety of  backgrounds that match the current weather.
 
